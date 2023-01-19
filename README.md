@@ -11,4 +11,5 @@ In this repository, I keep the implementation of different examples of Neural Ne
 
 ## Core papers
 * Transformer: [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
+* Dropout: [Dropout: A Simple Way to Prevent Neural Networks from Overfitting](https://www.cs.toronto.edu/~rsalakhu/papers/srivastava14a.pdf)
 * Residual blocks/connections: [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385)
