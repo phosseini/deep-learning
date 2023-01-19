@@ -10,4 +10,5 @@ In this repository, I keep the implementation of different examples of Neural Ne
 :eight_spoked_asterisk: &nbsp; The majority of PyTorch code examples are from the official [PyTorch tutorials](https://pytorch.org/tutorials/).
 
 ## Core papers
+* Transformer: [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
 * Residual blocks/connections: [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385)
